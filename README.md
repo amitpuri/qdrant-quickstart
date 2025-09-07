@@ -1,3 +1,6 @@
+![AI Generated](https://img.shields.io/badge/AI-Generated-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+
+
 # Qdrant Quickstart
 
 A comprehensive quickstart guide and interactive tutorial for getting started with Qdrant vector database.
