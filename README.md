@@ -175,7 +175,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Qdrant Official Website](https://qdrant.tech/)
 - [Qdrant Documentation](https://qdrant.tech/documentation/)
 - [Qdrant GitHub](https://github.com/qdrant/qdrant)
-- [Python Client Documentation](https://qdrant.github.io/qdrant-client/)
+- [Python Client Documentation](https://github.com/qdrant/qdrant-client)
 
 ---
 
